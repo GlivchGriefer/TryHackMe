@@ -1,5 +1,5 @@
 
-<div align="center">
+<div align="center" style="position: relative;">
     <div style="position: relative;">
         <h1 style="position: relative; z-index: 1; font-size: 3em; color: #a674e5;">0x7</h1>
     </div>
