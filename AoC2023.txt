@@ -101,7 +101,7 @@ Manually navigate the defaced website to find the vulnerable search form. What i
         
 Analyze the SQL error message that is returned. What ODBC Driver is being used in the back end of the website?
         ODBC Driver 17 for SQL Server
-        
+
 Inject the 1=1 condition into the Gift Search form. What is the last result returned in the database?
         THM{a4ffc901c27fb89efe3c31642ece4447}
         
@@ -149,3 +149,82 @@ Which firewall command is used to block traffic?
         
 There is a flag in one of the stories. Can you find it?
         THM{P0T$_W@11S_4_S@N7@}
+
+What is the value of the flag you received after achieving more than 90% accuracy on your submitted predictions?
+        THM{Neural.Networks.are.Neat!}
+
+-------------------- DAY 14 --------------------
+
+What is the key first step in the Machine Learning pipeline?
+        Data Collection
+
+Which data preprocessing feature is used to create new features or modify existing ones to improve model performance?
+        Feature Engineering
+
+During the data splitting step, 20% of the dataset was split for testing. What is the percentage weightage avg of precision of spam detection?
+        0.98
+
+How many of the test emails are marked as spam?
+        3
+
+One of the emails that is detected as spam contains a secret code. What is the code?
+        I_HaTe_BesT_FestiVal
+
+-------------------- DAY 15 --------------------
+
+What key process of training a neural network is taken care of by using a CNN?
+        Feature Extraction
+
+What is the name of the process used in the CNN to extract the features?
+        Convolution
+
+-------------------- DAY 16 --------------------
+
+What key process of training a neural network is taken care of by using a CNN?
+        Feature Extraction
+
+What is the name of the process used in the CNN to extract the features?
+        Convolution
+
+What is the name of the process used to reduce the features down?
+        pooling
+
+What off-the-shelf CNN did we use to train a CAPTCHA-cracking OCR model?
+        Attention OCR
+
+What is the password that McGreedy set on the HQ Admin portal?
+        ReallyNotGonnaGuessThis
+
+What is the value of the flag that you receive when you successfully authenticate to the HQ Admin portal?
+        THM{Captcha.Can't.Hold.Me.Back}
+
+-------------------- DAY 17 --------------------
+
+-------------------- DAY 21 --------------------
+
+What Linux kernel version is the Jenkins node?
+        5.4.0-1029-aws
+
+What value is found from /var/lib/jenkins/secret.key?
+        90e748eafdd2af4746a5ef7941e63272f24f1e33a2882f614ebfa6742e772ba7
+
+-------------------- DAY 22 --------------------
+
+Is SSRF the process in which the attacker tricks the server into loading only external resources (yea/nay)?
+        nay
+
+What is the C2 version?
+        1.1
+
+What is the username for accessing the C2 panel?
+        mcgreedy
+
+
+What is the flag value after accessing the C2 panel?
+        THM{EXPLOITED_31001}
+
+
+What is the flag value after stopping the data exfiltration from the McSkidy computer?
+        THM{AGENT_REMOVED_1001}
+
+-------------------- DAY 23 --------------------
